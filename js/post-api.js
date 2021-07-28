@@ -21,6 +21,13 @@ const post = [
         postIntro: 'This project is made to find some insight related to winners of Nobel Prize. It has data from 1901-2016.',
         link: 'https://github.com/Shikhar-Joshi/Nobel-Prize-Winners',
     },
+    {
+        id: 4,
+        img: "images/fourthProject.png",
+        postTitle: 'The Android App Market',
+        postIntro: 'The purpose of our project was to gather and analyze detailed information on apps in the Google Play Store in order to provide insights on app features and the current state of the Android app market.',
+        link: 'https://github.com/Shikhar-Joshi/Android-App-Market',
+    },
 ];
 
 //select items

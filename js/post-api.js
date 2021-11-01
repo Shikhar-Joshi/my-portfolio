@@ -28,6 +28,13 @@ const post = [
         postIntro: 'The purpose of our project was to gather and analyze detailed information on apps in the Google Play Store in order to provide insights on app features and the current state of the Android app market.',
         link: 'https://github.com/Shikhar-Joshi/Android-App-Market',
     },
+    {
+        id: 5,
+        img: "images/fifthProject.png",
+        postTitle: 'Portfolio with Theme Changer',
+        postIntro: 'Designed & Built the Portfolio using HTML, CSS and Vanilla JavaScript to show case the Professional Journey.',
+        link: 'https://github.com/Shikhar-Joshi/my-portfolio',
+    },
 ];
 
 //select items
